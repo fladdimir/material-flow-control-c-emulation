@@ -1,0 +1,6 @@
+numpy
+networkx
+arcade
+
+pytest
+mypy

@@ -1,0 +1,12 @@
+.vscode
+venv
+
+__pycache__
+.pytest_cache
+
+.mypy_cache
+
+*.o
+*.so
+
+*cffi*.c
